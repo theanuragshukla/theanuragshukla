@@ -1,4 +1,12 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Anurag shukla=====================================================================================================================================Web and Blockchain developer----------------------------There's no long description about me* 🌍  I'm based in Gorakhpur, India* 🖥️  See my portfolio at [theanuragshukla.github.io](http://theanuragshukla.github.io/portfolio)* ✉️  You can contact me at [www.anuragshukla@gmail.com](mailto:www.anuragshukla@gmail.com)* 🧠  I'm learning Hardhat & IPFS* 🤝  I'm open to collaborating on any good idea* ⚡  sometimes, I also do Competitive programming
+# Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Anurag shukla
+## Web and Blockchain developer
+There's no long description about me
+* 🌍  I'm based in Gorakhpur, India
+* 🖥️  See my portfolio at [theanuragshukla.github.io](http://theanuragshukla.github.io/portfolio)
+* ✉️  You can contact me at [www.anuragshukla@gmail.com](mailto:www.anuragshukla@gmail.com)
+* 🧠  I'm learning Hardhat & IPFS
+* 🤝  I'm open to collaborating on any good idea
+* ⚡  sometimes, I also do Competitive programming
 
 <a href="https://www.twitter.com/itsanuragshukla" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/itsanuragshukla?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"/></a><a href="https://www.github.com/theanuragshukla" target="_blank" rel="noreferrer"><img
