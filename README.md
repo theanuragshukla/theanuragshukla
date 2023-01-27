@@ -40,5 +40,5 @@
 - [Mail](mailto:www.anuragshukla@gmail.com "Mail")
 
 
-![Aryan's github stats](https://github-stats-alpha.vercel.app/api?username=theanuragshukla&cc=000&tc=fff&ic=fff&bc=000)  [![GitHub Streak](https://streak-stats.demolab.com?user=theanuragshukla&theme=highcontrast&hide_border=true)](https://git.io/streak-stats)
+![Anurag's github stats](https://github-stats-alpha.vercel.app/api?username=theanuragshukla&cc=000&tc=fff&ic=fff&bc=000)  [![GitHub Streak](https://streak-stats.demolab.com?user=theanuragshukla&theme=highcontrast&hide_border=true)](https://git.io/streak-stats)
 
