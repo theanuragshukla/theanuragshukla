@@ -1,9 +1,7 @@
 # Welcome to My Profile! 👋 
 
 > Multi-stack developer with experience in React, NodeJS, Python, MongoDB, and expanding skills in Golang and Solidity for building blockchain applications
-
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/theanuragshukla/)
-
+> 
 ### ⚡ Tech Stack
 
 - HTML | CSS | JS | TS
