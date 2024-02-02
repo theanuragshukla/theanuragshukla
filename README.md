@@ -6,37 +6,27 @@
 
 ### ⚡ Tech Stack
 
-- Javascript/Typescript
-- HTML/CSS
+- HTML | CSS | JS | TS
+- ReactJS | NextJS
 - NodeJS
-- Python
-- React
-- Material-UI/Chakra-UI
-- Next
-- MongoDB 
-- MySql | POSTGRES
-- REST
-- Git
-- Linux
-- Graphql
+- NestJS | ExpressJS
+- JAVA | SpringBoot
+- Golang 
+- MUI | ChakraUI
+- MongoDB | PSQL
+- RedisDB | Memcached
+- Android | Jetpack Compose | XML
+- REST | gRPC | GraphQL
 - Solidity
-- JAVA
-- C/C++
-- PHP
-- Flask
-- Django
-- GAS
-- Android | xml
-
+- C | C++
+- Bash | Lua | GAS
+- Python
+- Flask | Django
+- Docker | K8S 
 
  ### ⚡ Competitive Programming Handles
  
  - [Leetcode](https://leetcode.com/theanuragshukla "Leetcode")
-
- ### ⚡ Connect
-
-- [Telegram](https://t.me/theRealAnuragShukla "Telegram")
-- [Instagram](https://instagram.com/therealanuragshukla "Instagram")
 
 ### ⚡ Contact
 
